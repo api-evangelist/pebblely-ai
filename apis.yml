@@ -1,0 +1,33 @@
+aid: pebblely-ai
+name: Pebblely AI
+description: >-
+  Pebblely AI provides AI-powered product photography and image generation
+  capabilities, allowing businesses to create professional product photos
+  using artificial intelligence.
+type: Index
+image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
+tags:
+  - AI Photography
+  - Image Generation
+  - Product Photos
+  - API
+url: >-
+  https://raw.githubusercontent.com/api-evangelist/pebblely-ai/refs/heads/main/apis.yml
+created: '2026-03-16'
+modified: '2026-03-16'
+specificationVersion: '0.19'
+apis:
+  - aid: pebblely-ai:pebblely-ai
+    name: Pebblely AI API
+    description: >-
+      AI-powered product photo generation and image editing API.
+    humanURL: https://pebblely.com/
+    tags:
+      - AI Photography
+      - Image Generation
+    properties:
+      - type: Documentation
+        url: https://pebblely.com/docs
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
