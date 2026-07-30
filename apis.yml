@@ -5,9 +5,21 @@ description: >-
   capabilities, allowing businesses to create professional product photos
   using artificial intelligence without requiring Photoshop skills.
 type: Index
+accessModel:
+  pricing: freemium
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Freemium
+  confidence: medium
+  source:
+  - plans
+  generated: '2026-07-22'
+  method: derived
 position: Consuming
 access: 3rd-Party
-image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/apis-json-logo.jpg
+image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/pebblely-ai.png
 tags:
   - AI
   - AI Photography
